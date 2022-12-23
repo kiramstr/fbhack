@@ -1,7 +1,5 @@
-# ====================
-# by badrddin
-#======================
 
-# pip install 
+
+# pip install mechanize
 
 # python fb.py
